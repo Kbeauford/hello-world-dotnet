@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\kyrne_000\\Documents\\ACCTMIS 3620\\hello-world-dotnet\\HelloWorld\\HelloWorld.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
